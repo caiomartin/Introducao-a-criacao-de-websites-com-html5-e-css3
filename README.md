@@ -1,4 +1,4 @@
-# Introdução ao framework Spring Boot - Digital Innovation One
+# Introdução a criação de websites com HTML5 e CSS3
 
 ## 1 - Introdução ao curso de HTML
 - [x] Estrutura básica
